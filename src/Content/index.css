@@ -1,0 +1,57 @@
+
+.content .content-header{
+    background-color: #28283e;
+    height: 80px;
+    color: honeydew;
+    border-bottom: 1px solid honeydew;
+
+}
+.content input{
+    position: relative;
+    margin-top: 520px;
+    background-color: transparent;
+    color: honeydew;
+}
+.content input:focus{
+    background-color: transparent;
+    color: honeydew;
+}
+.content button{
+    position:absolute ;
+    background-color: #28283e;
+    height: 40px;
+    margin-top:-40px ;
+    margin-left: 850px;
+
+}
+.fa-telegram-plane{
+    color: white;
+    font-size: 20px;
+}
+.content .message{
+    height: 40px;
+    background-color: #3d3d5c;
+    font-size: 25px;
+    border-radius: 40px;
+    text-transform: capitalize;
+    margin: 10px;
+}
+.content .content-body{
+    background-color: #28283e;
+    height: 577px;
+}
+.content .inputClass{
+    position: fixed;
+    text-transform: capitalize;
+
+}
+
+
+.content span{
+    float: right;
+    font-weight: bold;
+    font-size: 15px;
+}
+.content .sendButtonClick{
+    width: 50px;
+}

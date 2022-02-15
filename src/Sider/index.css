@@ -1,0 +1,14 @@
+.sider .user{
+    background-color: transparent;
+    cursor: pointer;
+    margin-bottom: 1px;
+    color:white;
+    height: 60px;
+}
+.sider .user:hover{
+    background-color: #313152;
+
+}
+.sider .isActive{
+    background-color: #313152;
+}
